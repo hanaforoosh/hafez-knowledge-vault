@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/images/Hafez.jpg" alt="حافظ شیرازی" width="720">
+  <img src="./resources/images/Hafez.png" alt="حافظ شیرازی" width="720">
 </p>
 
 <h1 align="center">دفتر پژوهش و خوانش دیوان حافظ</h1>
